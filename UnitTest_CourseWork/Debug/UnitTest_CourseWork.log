@@ -1,0 +1,22 @@
+﻿  UnitTest_CourseWork.cpp
+D:\Программирование\4 сем\сourse\Course_Work\Edmonds-Karp.cpp(50,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\сourse\Course_Work\Edmonds-Karp.cpp(57,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\сourse\Course_Work\Edmonds-Karp.cpp(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\сourse\Course_Work\Edmonds-Karp.cpp(119,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\сourse\Course_Work\Edmonds-Karp.cpp(120,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\сourse\Course_Work\Edmonds-Karp.cpp(122,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\сourse\Course_Work\List.inl(120,12): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\сourse\Course_Work\List.inl(119): message : во время компиляции функции-члена класс шаблон "data_T List<data_T>::at(const int)"
+          with
+          [
+              data_T=int
+          ]
+D:\Программирование\4 сем\сourse\Course_Work\Edmonds-Karp.cpp(109): message : выполняется компиляция ссылки на экземпляр шаблон функции "data_T List<data_T>::at(const int)"
+          with
+          [
+              data_T=int
+          ]
+D:\Программирование\4 сем\сourse\Course_Work\Edmonds-Karp.cpp(98): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<int>"
+D:\Программирование\4 сем\сourse\Course_Work\List.inl(131): warning C4715: List<int>::at: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Программирование\4 сем\сourse\Course_Work\Debug\UnitTest_CourseWork.lib и объект D:\Программирование\4 сем\сourse\Course_Work\Debug\UnitTest_CourseWork.exp
+  UnitTest_CourseWork.vcxproj -> D:\Программирование\4 сем\сourse\Course_Work\Debug\UnitTest_CourseWork.dll
